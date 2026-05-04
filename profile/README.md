@@ -11,8 +11,8 @@
 ---
 <p align="center">
 
-[![BypaxDPI İndir!](https://img.shields.io/badge/⬇%20İndir-BypaxDPI-107C10?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BypaxDPI/BypaxDPI-Windows/releases/latest/download/bypaxdpi.exe)
-[![Version v1.0.0 (Son Sürüm)](https://img.shields.io/badge/Version-1.0.0%20Latest-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BypaxDPI/BypaxDPI-Windows/releases/latest)
+[![BypaxDPI İndir!](https://img.shields.io/badge/⬇%20İndir-BypaxDPI-107C10?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BypaxDPI/BypaxDPI-Windows/releases)
+[![Version v1.0.0 (Son Sürüm)](https://img.shields.io/badge/Version-1.0.0%20Latest-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BypaxDPI/BypaxDPI-Windows/releases/)
 
 </p>
 
