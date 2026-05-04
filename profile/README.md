@@ -1,3 +1,24 @@
+<p align="center">
+  <img src="images/bypax-logo.png" width="128" alt="BypaxDPI Logo">
+</p>
+
+<h1 align="center">BypaxDPI</h1>
+
+<p align="center">
+  <b>Discord ve internet erişim engellerini aşmak için tasarlanmış; askeri düzeyde çökmeye karşı dayanıklı (Anti-Crash), modern ve çok yönlü Yerel Proxy & DPI Bypass aracı.</b>
+</p>
+
+---
+<p align="center">
+
+[![BypaxDPI İndir!](https://img.shields.io/badge/⬇%20İndir-BypaxDPI-107C10?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BypaxDPI/BypaxDPI-Windows/releases/latest/download/bypaxdpi.exe)
+[![Version v1.0.0 (Son Sürüm)](https://img.shields.io/badge/Version-1.0.0%20Latest-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BypaxDPI/BypaxDPI-Windows/releases/latest)
+
+</p>
+
+---
+
+
 # 🚀 BypaxDPI v1.0.0 (Enterprise-Ready)
 
 > **Discord ve internet erişim engellerini aşmak için tasarlanmış; askeri düzeyde çökmeye karşı dayanıklı (Anti-Crash), modern ve çok yönlü Yerel Proxy & DPI Bypass aracı.**
